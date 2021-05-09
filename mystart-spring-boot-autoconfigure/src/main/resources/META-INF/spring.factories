@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.fengh.learnings.autoconfigure.config.GreetingAutoConfiguration
